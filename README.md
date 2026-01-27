@@ -1,0 +1,1 @@
+# jewellery-management-system-project
